@@ -58,6 +58,8 @@ yarn add dsa-ts
 Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
 
 - [Array](https://github.com/jeffzh4ng/algorithms-and-data-structures#array)
+- [Hash Tables](https://github.com/jeffzh4ng/algorithms-and-data-structures#hash_tables)
+- [Sets](https://github.com/jeffzh4ng/algorithms-and-data-structures#sets)
 - [Sliding Window](https://github.com/jeffzh4ng/algorithms-and-data-structures#sliding-window)
 - [Two Pointers](https://github.com/jeffzh4ng/algorithms-and-data-structures#two-pointers)
 - [Fast and Slow Pointers](https://github.com/jeffzh4ng/algorithms-and-data-structures#fast-and-slow-pointers)
@@ -97,7 +99,14 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [x] 4. Median of Two Sorted Arrays (Hard)
   - [x] 84. Largest Rectangle in Histogram (Hard)
   - [x] 1200. Minimum Absolute Difference (Easy)
+  
+### Hash Tables
+  - [x] 1. Two Sum (Easy)
+  - [x] 2. Max Number of K-Sum Pairs (Medium)
 
+### Sets
+  - [x] 128. Longest Consecutive Sequence (Hard)
+  
 ### Sliding Window
   - [x] 209. Minim Size Subarray Sum (Medium)
   - [x] 904. Fruit Into Baskets (Medium)
