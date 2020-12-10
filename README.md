@@ -57,7 +57,7 @@ yarn add dsa-ts
 
 Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
 
-- [Array](https://github.com/jeffzh4ng/algorithms-and-data-structures#array)
+- [Array](https://github.com/EricMontague/algorithms-and-data-structures#array)
 - [Hash Tables](https://github.com/jeffzh4ng/algorithms-and-data-structures#hash_tables)
 - [Sets](https://github.com/jeffzh4ng/algorithms-and-data-structures#sets)
 - [Sliding Window](https://github.com/jeffzh4ng/algorithms-and-data-structures#sliding-window)
