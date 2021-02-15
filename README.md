@@ -146,6 +146,12 @@ Following algoritms/problems compiled from Grokking, EPI, and AlgoExpert
   - [x] 240. Search a 2D Matrix II (Medium)
   - [x] [📹 454. 4Sum II (Medium)](https://www.youtube.com/watch?v=i-tPlqTdLfo&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=2)
   - [x] [📹 875. Koko Eating Bananas (Medium)](https://www.youtube.com/watch?v=i-eMqfWx5M4&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=3)
+  - [x] [1283. Find the Smallest Divisor Given a Threshold (Medium)](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)
+  - [x] [1231. Divide Chocolate (Hard)](https://leetcode.com/problems/divide-chocolate/)
+  - [x] [1011. Capacity to Ship Packages Within D Days (Medium)](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+  - [x] [410. Split Array Largest Sum (Hard)](https://leetcode.com/problems/split-array-largest-sum/)
+  - [x] [774. Minimize Max Distance to Gas Station (Hard)](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)
+  - [x] [1760. Minimum Limit of Balls in Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/)
   
 ### Merge Intervals
   - [x] [📹 56. Merge Intervals (Medium)](https://www.youtube.com/watch?v=LhBpbPM4Vy8&list=PLn4fTSbSpY5fN2gxiU8VmOKo3255vlDkS&index=4)
